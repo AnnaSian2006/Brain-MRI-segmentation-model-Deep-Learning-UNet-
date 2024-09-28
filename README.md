@@ -23,4 +23,6 @@ Credits-
 
 This project is made by me for Inter Institute National Level Symposium in the technical domain (innovation insight)
 
+*Since, the size of the file is large, kindly open it in raw format*
+
 ~ Regards
